@@ -1,0 +1,16 @@
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\bin\Debug\ce103-2022-2023-hw3-haluk-kurtulus.exe.config
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\bin\Debug\ce103-2022-2023-hw3-haluk-kurtulus.exe
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\bin\Debug\ce103-2022-2023-hw3-haluk-kurtulus.pdb
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce103-2022-2023-hw3-haluk-kurtulus.csproj.AssemblyReference.cache
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce103-2022-2023-hw3-haluk-kurtulus.csproj.SuggestedBindingRedirects.cache
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce103-2022-2023-hw3-haluk-kurtulus.csproj.CoreCompileInputs.cache
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce103-2022-2023-hw3-haluk-kurtulus.exe
+C:\Users\haluk\OneDrive\Masaüstü\hw-6\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce103-2022-2023-hw3-haluk-kurtulus.pdb
+C:\Users\haluk\OneDrive\Masaüstü\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\bin\Debug\ce103-2022-2023-hw3-haluk-kurtulus.exe.config
+C:\Users\haluk\OneDrive\Masaüstü\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\bin\Debug\ce103-2022-2023-hw3-haluk-kurtulus.exe
+C:\Users\haluk\OneDrive\Masaüstü\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\bin\Debug\ce103-2022-2023-hw3-haluk-kurtulus.pdb
+C:\Users\haluk\OneDrive\Masaüstü\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce103-2022-2023-hw3-haluk-kurtulus.csproj.AssemblyReference.cache
+C:\Users\haluk\OneDrive\Masaüstü\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce103-2022-2023-hw3-haluk-kurtulus.csproj.SuggestedBindingRedirects.cache
+C:\Users\haluk\OneDrive\Masaüstü\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce103-2022-2023-hw3-haluk-kurtulus.csproj.CoreCompileInputs.cache
+C:\Users\haluk\OneDrive\Masaüstü\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce103-2022-2023-hw3-haluk-kurtulus.exe
+C:\Users\haluk\OneDrive\Masaüstü\ce103-2022-2023-hw3-haluk-kurtulus\ce103-2022-2023-hw3-haluk-kurtulus\obj\Debug\ce103-2022-2023-hw3-haluk-kurtulus.pdb
